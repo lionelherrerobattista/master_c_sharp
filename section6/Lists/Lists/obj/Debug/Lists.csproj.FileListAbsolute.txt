@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\obj\Debug\Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Lists\Lists\obj\Debug\Lists.pdb

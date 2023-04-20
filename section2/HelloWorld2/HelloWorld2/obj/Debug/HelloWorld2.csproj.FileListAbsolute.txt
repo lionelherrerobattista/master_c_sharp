@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section2\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.pdb

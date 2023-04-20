@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section6\Arrays\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section5\Conditionals\Conditionals\obj\Debug\Conditionals.pdb

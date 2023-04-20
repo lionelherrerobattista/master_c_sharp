@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\lion_\Desktop\workspace\masterc#\section5\RandomClass\RandomClass\obj\Debug\RandomClass.pdb
