@@ -1,0 +1,8 @@
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\lion_\Desktop\workspace\masterc#\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
