@@ -1,8 +1,0 @@
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\bin\Debug\Iterations.exe.config
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\bin\Debug\Iterations.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\bin\Debug\Iterations.pdb
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\obj\Debug\Iterations.csproj.SuggestedBindingRedirects.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\obj\Debug\Iterations.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section5\Iterations\Iterations\obj\Debug\Iterations.pdb

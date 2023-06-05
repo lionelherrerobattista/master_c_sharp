@@ -1,8 +1,0 @@
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\bin\Debug\WorkingWithDates.exe.config
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\bin\Debug\WorkingWithDates.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\bin\Debug\WorkingWithDates.pdb
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\obj\Debug\WorkingWithDates.csproj.AssemblyReference.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\obj\Debug\WorkingWithDates.csproj.SuggestedBindingRedirects.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\obj\Debug\WorkingWithDates.csproj.CoreCompileInputs.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\obj\Debug\WorkingWithDates.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section7\WorkingWithDates\WorkingWithDates\obj\Debug\WorkingWithDates.pdb

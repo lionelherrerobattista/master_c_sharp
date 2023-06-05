@@ -1,8 +1,0 @@
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\bin\Debug\Exercises.exe.config
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\bin\Debug\Exercises.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\bin\Debug\Exercises.pdb
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\obj\Debug\Exercises.csproj.SuggestedBindingRedirects.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\obj\Debug\Exercises.exe
-C:\Users\lion_\Desktop\workspace\masterc#\section6\Exercises\Exercises\obj\Debug\Exercises.pdb
